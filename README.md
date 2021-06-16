@@ -1,7 +1,7 @@
-### BHP_net.py
+# BHP_net.py
 A Pure Python Replacement of NetCat Tool 
   
-To use,type-> python3 BHP_net.py -l -p 8888 -c       in terminal 1
+- To use,type-> python3 BHP_net.py -l -p 8888 -c       in terminal 1
 
 type-> python3 BHP_net.py -t 127.0.0.1 -p 8888        in terminal 2
 
